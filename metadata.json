@@ -1,0 +1,5 @@
+{
+  "name": "Tesla Theater Pro",
+  "description": "Une application web optimisée pour le navigateur Tesla pour regarder vos services de streaming préférés en plein écran.",
+  "requestFramePermissions": []
+}
